@@ -1,4 +1,4 @@
-# SBH_Full_-_Advanced_Time_Series_Techniques
+# SBH_Full_-_Advanced_Time_Series_Techniques (Bronze Medal ) 
 
 A Kaggle notebook containing all the advanced Time Series Techniques for the Kaggle competition :
 
